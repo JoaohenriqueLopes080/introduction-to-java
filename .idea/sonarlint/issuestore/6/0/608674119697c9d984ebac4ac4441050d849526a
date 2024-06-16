@@ -1,0 +1,23 @@
+
+‹
+java:S2259."HA "NullPointerException" could be thrown; "graduation" is nullable here.(¤ ƒß8‘ñÏó2J$c6d26b63-d33b-4e10-b653-72aa9de727bf
+
+java:S1192"JDefine a constant instead of duplicating this literal "Reprovado" 3 times.(»öûÅ8“ñÏó2J$9fb98e02-3168-484c-9aa8-fe9a5ccbad2f
+†
+java:S62082"CMerge the previous cases into this one using comma-separated label.(´ÄËê8”ñÏó2J$778e457e-4135-49c0-9e33-42a6aaa7a677
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8ñÏó2J$84640f8a-ef42-4f87-b846-ab6037bb12f1
+m	java:S106"+Replace this use of System.out by a logger.(»öûÅ8ŸñÏó2J$23e8b276-8839-4154-b1d9-55ab10832c42
+r	java:S106"+Replace this use of System.out by a logger.(§íıÿÿÿÿ8 ñÏó2J$ef353ddb-bc7e-4d42-bb88-acc380a9cbc9
+m	java:S106"+Replace this use of System.out by a logger.(¤³¤í8¡ñÏó2J$e73c838d-577e-4a0b-a3a3-7468491ec12f
+m	java:S106"+Replace this use of System.out by a logger.(ˆºŸÍ8¡ñÏó2J$2ee5ef37-2156-49d7-8b84-c91578dfb994
+m	java:S106"+Replace this use of System.out by a logger.(¡ÓõÁ8¢ñÏó2J$d8ec82fb-54e3-47c6-a92b-e393cdfa3c43
+m	java:S106"+Replace this use of System.out by a logger.(Ù°ù¸8¢ñÏó2J$f31f0cb2-c33f-4a83-a6c6-da76266ac5e3
+m	java:S106"+Replace this use of System.out by a logger.(»öûÅ8£ñÏó2J$9052392f-07c4-4282-9a01-7a21005ce405
+	java:S1284"LEnd this switch case with an unconditional break, return or throw statement.(›áÈÔ8÷ÇĞó2J$21084383-769f-41bb-a3f8-9335054aa849
+	java:S1282"LEnd this switch case with an unconditional break, return or throw statement.(´ÄËê8¦ñÏó2J$597fa571-0aa6-4c5f-b017-ecc74caa79f0
+	java:S128/"LEnd this switch case with an unconditional break, return or throw statement.(õ‘“‰8¦ñÏó2J$630b2e5e-0e21-4b48-b4f3-6ea556112776
+r	java:S1060"+Replace this use of System.out by a logger.(ÜÕˆÑøÿÿÿÿ8¨ñÏó2J$4e5b964c-5bb6-472b-aa65-4f99e743f236
+r	java:S1063"+Replace this use of System.out by a logger.(§íıÿÿÿÿ8©ñÏó2J$4cf8603d-526b-4455-8a97-850572fb6a6a
+m	java:S1065"+Replace this use of System.out by a logger.(»öûÅ8©ñÏó2J$0a91347e-c906-4535-bb58-f40f80feeeda
+L	java:S1067"+Replace this use of System.out by a logger.(Ù£“Öÿÿÿÿÿ8§İĞó2
